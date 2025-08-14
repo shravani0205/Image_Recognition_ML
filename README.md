@@ -30,6 +30,7 @@ Portfolio Showcase: Each notebook cell is annotated for clarity and reproducibil
 
 
 **Key Features**
+
 -Download and preprocess Kaggle datasets (MNIST, CIFAR-10, Cats & Dogs)
 
 -Visualize datasets with Matplotlib
@@ -45,13 +46,17 @@ Portfolio Showcase: Each notebook cell is annotated for clarity and reproducibil
 -Includes code for saving, loading, and deploying models
 
 
+
 **Highlights**
+
 Accuracy on MNIST: >99%
 Accuracy on CIFAR-10: ~69%
 Cats vs. Dogs (Transfer Learning): ~88% training accuracy
 Visualization: Sample predictions, confusion matrix, ROC curves
 
+
 **Skills Demonstrated**
+
 Deep Learning / CNNs
 Data preprocessing & augmentation
 Model evaluation & visualization
