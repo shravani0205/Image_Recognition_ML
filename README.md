@@ -1,5 +1,7 @@
 # Image_Recognition_ML
+
 This project guides through building an image recognition model in Python using deep learning. Over five days, I  learn fundamental concepts and practical skills in image classification, culminating in a deployable, portfolio-ready toolkit showcasing my expertise in computer vision.
+
 
 **About This Project**
 
@@ -21,10 +23,15 @@ Transfer learning with MobileNetV2 on Cats vs. Dogs dataset (Kaggle)
 Day 5:
 Model evaluation, ROC/AUC, deployment tips
 
+
 **Why This Project?**
+
 End-to-End Workflow: From data prep to model evaluation, this repo demonstrates a real-world ML pipeline.
+
 Industry-Ready Practices: Includes transfer learning, data augmentation, and efficient model evaluation.
+
 Recruiter Value: Shows experience with TensorFlow, Keras, Colab, Kaggle, GitHub, and modern ML best practices.
+
 Portfolio Showcase: Each notebook cell is annotated for clarity and reproducibility.
 
 
