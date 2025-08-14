@@ -6,7 +6,7 @@ This project guides through building an image recognition model in Python using 
 **About This Project**
 
 
-Image Recognition 5 Days Bootcamp is a hands-on, project-based journey into modern computer vision. Built and tested entirely in Google Colab, this bootcamp covers:
+~Image Recognition 5 Days Bootcamp is a hands-on, project-based journey into modern computer vision. Built and tested entirely in Google Colab, this bootcamp covers:
 
 Day 1:
 Dataset download, MNIST & CIFAR-10 exploration, preprocessing, and visualization
@@ -24,7 +24,7 @@ Day 5:
 Model evaluation, ROC/AUC, deployment tips
 
 
-**Why This Project?**
+~**Why This Project?**
 
 End-to-End Workflow: From data prep to model evaluation, this repo demonstrates a real-world ML pipeline.
 
@@ -36,7 +36,7 @@ Portfolio Showcase: Each notebook cell is annotated for clarity and reproducibil
 
 
 
-**Key Features**
+~**Key Features**
 
 -Download and preprocess Kaggle datasets (MNIST, CIFAR-10, Cats & Dogs)
 
@@ -54,7 +54,7 @@ Portfolio Showcase: Each notebook cell is annotated for clarity and reproducibil
 
 
 
-**Highlights**
+~**Highlights**
 
 Accuracy on MNIST: >99%
 
@@ -65,7 +65,7 @@ Cats vs. Dogs (Transfer Learning): ~88% training accuracy
 Visualization: Sample predictions, confusion matrix, ROC curves
 
 
-**Skills Demonstrated**
+~**Skills Demonstrated**
 
 Deep Learning / CNNs
 
