@@ -50,17 +50,26 @@ Portfolio Showcase: Each notebook cell is annotated for clarity and reproducibil
 **Highlights**
 
 Accuracy on MNIST: >99%
+
 Accuracy on CIFAR-10: ~69%
+
 Cats vs. Dogs (Transfer Learning): ~88% training accuracy
+
 Visualization: Sample predictions, confusion matrix, ROC curves
 
 
 **Skills Demonstrated**
 
 Deep Learning / CNNs
+
 Data preprocessing & augmentation
+
 Model evaluation & visualization
+
 Transfer learning (fine-tuning)
+
 TensorFlow / Keras
+
 Google Colab & Kaggle integration
+
 Git version control
